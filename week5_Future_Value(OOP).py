@@ -45,3 +45,10 @@ class Calc_FVal():
 
 
 number=Calc_FVal() # creates an instance of the Calc_FVal() class
+
+
+
+
+
+
+#                                                            CODING WITH CLIFFORD
